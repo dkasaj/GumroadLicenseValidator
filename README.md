@@ -17,6 +17,10 @@ Swift-Gumroad-license-validator is available through [Swift Package Manager](htt
 
 ## Usage
 ```swift
+    import GumroadLicenseValidator
+```
+    
+```swift
     let licenseKeyToCheck = "XXXXXXXX-XXXXXXXX-XXXXXXXX-XXXXXXXX"
     
     let client = GumroadClient(productPermalink: "your product permalink")
