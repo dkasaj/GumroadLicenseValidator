@@ -1,4 +1,4 @@
-# GumroadLicenseValidator
+# Gumroad License Validator
 
 ## Overview
 A super simple tool for macOS Swift developers to check validity of a Gumroad-issued software license keys
